@@ -1,0 +1,22 @@
+{
+  "name": "docs-for-health",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Rizwan",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  },
+  "dependencies": {
+    "init": "^0.1.2",
+    "node": "^23.5.0",
+    "node-xlsx": "^0.24.0",
+    "xlsx": "^0.18.5"
+  }
+}
